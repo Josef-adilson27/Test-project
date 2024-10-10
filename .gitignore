@@ -1,0 +1,13 @@
+# Created by https://www.toptal.com/developers/gitignore/api/less,sass
+# Edit at https://www.toptal.com/developers/gitignore?templates=less,sass
+
+### Less ###
+*.less
+
+### Sass ###
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map
+
+# End of https://www.toptal.com/developers/gitignore/api/less,sass
